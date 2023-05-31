@@ -24,7 +24,7 @@ public class PlayerController : MonoBehaviour
         {
             transform.position += transform.right * speed * Time.deltaTime;
         }
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
         {
             transform.position += transform.up * jump * Time.deltaTime;
             particulaSalto.SetActive(true);
