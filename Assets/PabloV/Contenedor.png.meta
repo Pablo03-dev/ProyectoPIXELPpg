@@ -3,7 +3,7 @@ guid: 838bdb280e3e68f48b4f635d8cbfc162
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,7 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -581,6 +580,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Contenedor_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803cbf3417501bc44aaeced7c8e9f664
+      internalID: -840133919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -599,6 +619,7 @@ TextureImporter:
       Contenedor_13: -2095633659
       Contenedor_11: 899280049
       Contenedor_19: 1093708282
+      Contenedor_21: -840133919
       Contenedor_16: -385580495
       Contenedor_1: -1469549494
       Contenedor_14: 2132316202
