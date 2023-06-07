@@ -669,7 +669,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: -3, y: 6.21, z: 1}
+    m_Scale: {x: -4.15, y: 5.21, z: 1}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -744,7 +744,7 @@ ParticleSystem:
     m_TextureColorAffectsParticles: 1
     m_TextureAlphaAffectsParticles: 1
     m_TextureBilinearFiltering: 0
-    randomDirectionAmount: 0.3
+    randomDirectionAmount: 0.2
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
@@ -867,7 +867,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1.5
+      scalar: 1
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -1306,7 +1306,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 0.9843137, g: 0.9607843, b: 0.9372549, a: 1}
+        key1: {r: 1, g: 1, b: 1, a: 1}
         key2: {r: 0.28627452, g: 0.3019608, b: 0.49411765, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
